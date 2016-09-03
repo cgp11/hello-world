@@ -1,3 +1,3 @@
 # hello-world
 
-A passionate programmer
+A passionate programmer.
